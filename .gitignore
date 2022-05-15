@@ -1,3 +1,3 @@
 db.sql
-src/
-venv/
+usable_version/
+.venv/
